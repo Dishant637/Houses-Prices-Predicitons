@@ -1,1 +1,2 @@
 # Houses-Prices-Predicitons
+Welcome to the House Price Prediction project! In this project, I developed a robust model for predicting house prices using three powerful machine learning algorithms: Linear Regression, Random Forest Regression, and Decision Tree Regression. The project aimed to not only predict house prices accurately but also compare the performance of these algorithms to select the most suitable one based on evaluation metrics
